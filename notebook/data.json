@@ -1,0 +1,52 @@
+{
+    "user_0": {
+      "recent_month": {
+        "mean_consumption": 1.128101550372093,
+        "standard_deviation": 0.4694203608911038
+      },
+      "previous_month": {
+        "mean_consumption": 0.9010798449999999,
+        "standard_deviation": 0.30082499389470885
+      }
+    },
+    "user_1": {
+      "recent_month": {
+        "mean_consumption": 1.063363565883721,
+        "standard_deviation": 0.3329349113320318
+      },
+      "previous_month": {
+        "mean_consumption": 1.1180554263720932,
+        "standard_deviation": 0.4465729787986588
+      }
+    },
+    "user_2": {
+      "recent_month": {
+        "mean_consumption": 1.0566724806744188,
+        "standard_deviation": 0.32207823083494014
+      },
+      "previous_month": {
+        "mean_consumption": 1.0816953488604648,
+        "standard_deviation": 0.5692606719944859
+      }
+    },
+    "user_3": {
+      "recent_month": {
+        "mean_consumption": 0.25243682172093024,
+        "standard_deviation": 0.34039984833015413
+      },
+      "previous_month": {
+        "mean_consumption": 0.35746782944186045,
+        "standard_deviation": 0.2382607985699585
+      }
+    },
+    "user_4": {
+      "recent_month": {
+        "mean_consumption": 0.5059368217209302,
+        "standard_deviation": 0.2571078730938644
+      },
+      "previous_month": {
+        "mean_consumption": 0.4215294573488371,
+        "standard_deviation": 0.10230726949378689
+      }
+    }
+  }
