@@ -30,4 +30,5 @@ Problem statement ENEG42 for TEAM ALPHA PACT (UIA 407)
 
 ## Contributors
 1. Tushar
-2. Lamisi
+2. Saloni
+3. Lamisi
